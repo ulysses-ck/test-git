@@ -4,3 +4,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Ulises688apaza/test-git.git
 git push -u origin main
+
+
+Crea una nueva rama llamada "feature_x" y cámbiate a ella usando
+git checkout -b feature_x
